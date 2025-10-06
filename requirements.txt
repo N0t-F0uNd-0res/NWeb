@@ -1,0 +1,5 @@
+colorama
+bs4
+pystyle
+requests
+socks
